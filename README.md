@@ -19,7 +19,7 @@
 <p align="center">
   <a href="https://toolmight.com">🌐 Website</a> •
   <a href="https://www.reddit.com/r/toolmight/">💬 Reddit</a> •
-  <a href="www.linkedin.com/in/toolmight">🔗 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/toolmight/">🔗 LinkedIn</a>
 </p>
 
 ---
