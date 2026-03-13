@@ -18,8 +18,8 @@
 
 <p align="center">
   <a href="https://toolmight.com">🌐 Website</a> •
-  <a href="https://reddit.com/u/Ok_Style_5214">💬 Reddit</a> •
-  <a href="https://linkedin.com">🔗 LinkedIn</a>
+  <a href="https://www.reddit.com/r/toolmight/">💬 Reddit</a> •
+  <a href="www.linkedin.com/in/toolmight">🔗 LinkedIn</a>
 </p>
 
 ---
@@ -75,5 +75,5 @@ We're always improving ToolMight for developers.
 ---
 
 <p align="center">
-  Built for developers ❤️
+  Built with ❤️ for developers.
 </p>
